@@ -1,6 +1,6 @@
 /**
  * @module 操作mysql数据库的API
- * @author : 叶宏威
+ * @author : 谢泽霖
  * @since : 创建时间  2021-02-12
  * */
 
